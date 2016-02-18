@@ -33,7 +33,7 @@ Hubs.prototype.FindController = function(callback) {
 
     var deviceRequest = {
         devices:{
-            HAHVACThermostatSLR2:{
+            HAHVACThermostat:{
                 GET:''
             }
         }
